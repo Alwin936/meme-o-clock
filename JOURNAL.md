@@ -10,16 +10,28 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0.87h | 1 |
+| Week 1 | Tier 1 | 1.5h | 1 |
 
 ## Contents
 
-1. [2026-10-08 – Work session](#2026-10-08-work-session)
+1. [2026-10-08 – I started work on the PCB for my alarm clock, Meme-O-Clock.](#2026-10-08-i-started-work-on-the-pcb-for-my-alarm-clock-meme)
 
 ## Design
 
-### 2026-10-08 – Work session
+### 2026-10-08 – I started work on the PCB for my alarm clock, Meme-O-Clock.
 
-**0.87h**
+**1.5h**
+
+I started work on the PCB for my alarm clock, Meme-O-Clock.
+
+This is my first time creating circuits and electrical schematics, as well as my first time using KiCad, so I'm using a Youtube tutorial and ChatGPT to guide me along the way as I design.
+
+I started by picking which microcontroller to use, and after comparing options, I decided upon the Arduino Nano ESP32 for ease-of-use and integration with the Arduino ecosystem, which I'm already familiar with
+
+![meme-o-clock-pcbschematic-update-10-8-26](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6HcBJbXMNK4i7wcprvAdH7WjsyHy5dnv/665e89cc62b8ba3ce657dcb0d3f53d46cae1f9de57d4b5117eb47f9d6cf9e7ad.png)
+
+. I also decided to use a MAX98357A amplifier for my speaker, but I have not added that to my schematic yet. My OLED display and speaker will not be soldered directly onto the PCB, but rather be attached by connections from the PCB.
+
+I continued by adding push button switches and a USB-C receptacle to my schematic. For my next session, I aim to add the MAX98357A amplifier as well as connections for my OLED display and speaker to the schematic.
 
 [Timelapse](https://lookout.hackclub.com/api/media/6d8b21e4-1a05-4baf-af58-6c9630de95d2/video.mp4)
