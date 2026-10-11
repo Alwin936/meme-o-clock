@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.39h | 5 |
+| Week 1 | Tier 1 | 5.19h | 5 |
 
 ## Contents
 
@@ -88,7 +88,7 @@ The last thing I have to do later today is debug - the DRC said I have 89 errors
 
 ### 2026-10-11 – Struggling to wire together the PCB.
 
-**1h**
+**0.8h**
 
 Struggling to wire together the PCB.
 
