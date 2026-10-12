@@ -1,0 +1,15 @@
+# KiCad backup and temporary files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*.bck
+*.erc
+*.drl
+*.gbr
+*.net
+*.pos
+*.rpt
+
+# Local project settings (user-specific layout preferences)
+*.kicad_prl
