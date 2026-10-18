@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-12T03:48:35.186Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuw08uxi03ys01osm5xoaw0c). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A PCB designed for the Meme-O-Clock, a custom alarm clock designed to wake you up in a unique and humorous way.
 
