@@ -1,0 +1,118 @@
+** Drc report for meme-o-clock-pcb.kicad_pcb **
+** Created on 2026-10-11T14:08:53 **
+** Report includes: Errors **
+
+** Found 21 DRC violations **
+[clearance]: Clearance violation ( clearance 0.1270 mm; actual 0.0800 mm)
+    Local override; error
+    @(137.3625 mm, 92.9950 mm): Pad 1 [GND] of U2 on Front
+    @(137.3625 mm, 92.4650 mm): Pad 2 [unconnected-(U2-NC-Pad2)] of U2 on Front
+[clearance]: Clearance violation ( clearance 0.1270 mm; actual 0.0800 mm)
+    Local override; error
+    @(137.3625 mm, 91.9350 mm): Pad 3 [unconnected-(U2-NC-Pad3)] of U2 on Front
+    @(137.3625 mm, 91.4050 mm): Pad 4 [+3V3] of U2 on Front
+[clearance]: Clearance violation ( clearance 0.1270 mm; actual 0.0800 mm)
+    Local override; error
+    @(137.3625 mm, 91.9350 mm): Pad 3 [unconnected-(U2-NC-Pad3)] of U2 on Front
+    @(137.3625 mm, 92.4650 mm): Pad 2 [unconnected-(U2-NC-Pad2)] of U2 on Front
+[clearance]: Clearance violation ( clearance 0.1270 mm; actual 0.0800 mm)
+    Local override; error
+    @(135.8375 mm, 91.4050 mm): Pad 5 [Net-(A1-SCL/A5)] of U2 on Front
+    @(135.8375 mm, 91.9350 mm): Pad 6 [Net-(A1-SDA/A4)] of U2 on Front
+[clearance]: Clearance violation ( clearance 0.1270 mm; actual 0.0800 mm)
+    Local override; error
+    @(135.8375 mm, 92.4650 mm): Pad 7 [Net-(A1-D10/CS)] of U2 on Front
+    @(135.8375 mm, 91.9350 mm): Pad 6 [Net-(A1-SDA/A4)] of U2 on Front
+[clearance]: Clearance violation ( clearance 0.1270 mm; actual 0.0800 mm)
+    Local override; error
+    @(135.8375 mm, 92.9950 mm): Pad 8 [unconnected-(U2-NC-Pad8)] of U2 on Front
+    @(135.8375 mm, 92.4650 mm): Pad 7 [Net-(A1-D10/CS)] of U2 on Front
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(127.2000 mm, 61.6800 mm): Pad B12 [GND] of J1 on Front
+    @(126.8900 mm, 60.6050 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(120.8000 mm, 61.6800 mm): Pad B1 [GND] of J1 on Front
+    @(121.1100 mm, 60.6050 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(120.8000 mm, 61.6800 mm): Pad A12 [GND] of J1 on Front
+    @(121.1100 mm, 60.6050 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(127.2000 mm, 61.6800 mm): Pad A1 [GND] of J1 on Front
+    @(126.8900 mm, 60.6050 mm): NPTH pad of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Front; zone min spoke count 2; actual 1)
+    Local override; error
+    @(55.5000 mm, 45.1000 mm): Zone [+3V3] on Front and Back, priority 1
+    @(137.3625 mm, 91.4050 mm): Pad 4 [+3V3] of U2 on Front
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Front; zone min spoke count 2; actual 1)
+    Local override; error
+    @(55.5000 mm, 45.1000 mm): Zone [+3V3] on Front and Back, priority 1
+    @(80.6750 mm, 70.8000 mm): Pad 1 [+3V3] of R3 on Front
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Front; zone min spoke count 2; actual 1)
+    Local override; error
+    @(69.0000 mm, 47.0000 mm): Zone [GND] on Front and Back, priority 0
+    @(77.6500 mm, 108.7500 mm): PTH pad 1 [GND] of SW2
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Front; zone min spoke count 2; actual 1)
+    Local override; error
+    @(69.0000 mm, 47.0000 mm): Zone [GND] on Front and Back, priority 0
+    @(77.5500 mm, 94.6500 mm): PTH pad 1 [GND] of SW4
+[starved_thermal]: Thermal relief connection to zone incomplete (layer Front; zone min spoke count 2; actual 1)
+    Local override; error
+    @(69.0000 mm, 47.0000 mm): Zone [GND] on Front and Back, priority 0
+    @(77.9500 mm, 80.2500 mm): PTH pad 1 [GND] of SW1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(137.3625 mm, 91.4050 mm): Pad 4 [+3V3] of U2 on Front
+    @(137.3625 mm, 91.9350 mm): Pad 3 [unconnected-(U2-NC-Pad3)] of U2 on Front
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(135.8375 mm, 91.4050 mm): Pad 5 [Net-(A1-SCL/A5)] of U2 on Front
+    @(135.8375 mm, 91.9350 mm): Pad 6 [Net-(A1-SDA/A4)] of U2 on Front
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(135.8375 mm, 91.9350 mm): Pad 6 [Net-(A1-SDA/A4)] of U2 on Front
+    @(135.8375 mm, 92.4650 mm): Pad 7 [Net-(A1-D10/CS)] of U2 on Front
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(135.8375 mm, 92.4650 mm): Pad 7 [Net-(A1-D10/CS)] of U2 on Front
+    @(135.8375 mm, 92.9950 mm): Pad 8 [unconnected-(U2-NC-Pad8)] of U2 on Front
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(137.3625 mm, 92.9950 mm): Pad 1 [GND] of U2 on Front
+    @(137.3625 mm, 92.4650 mm): Pad 2 [unconnected-(U2-NC-Pad2)] of U2 on Front
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(137.3625 mm, 92.4650 mm): Pad 2 [unconnected-(U2-NC-Pad2)] of U2 on Front
+    @(137.3625 mm, 91.9350 mm): Pad 3 [unconnected-(U2-NC-Pad3)] of U2 on Front
+
+** Found 4 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(113.5000 mm, 106.4800 mm): PTH pad 13 [Net-(A1-D10/CS)] of A1
+    @(135.8375 mm, 92.4650 mm): Pad 7 [Net-(A1-D10/CS)] of U2 on Front
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(119.6800 mm, 56.9250 mm): PTH pad SH [unconnected-(J1-SHIELD-PadSH)] of J1
+    @(119.6800 mm, 61.1050 mm): PTH pad SH [unconnected-(J1-SHIELD-PadSH)] of J1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(128.3200 mm, 56.9250 mm): PTH pad SH [unconnected-(J1-SHIELD-PadSH)] of J1
+    @(119.6800 mm, 56.9250 mm): PTH pad SH [unconnected-(J1-SHIELD-PadSH)] of J1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(128.3200 mm, 61.1050 mm): PTH pad SH [unconnected-(J1-SHIELD-PadSH)] of J1
+    @(128.3200 mm, 56.9250 mm): PTH pad SH [unconnected-(J1-SHIELD-PadSH)] of J1
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

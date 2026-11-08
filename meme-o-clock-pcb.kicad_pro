@@ -80,14 +80,6 @@
         [
           "solder_mask_bridge|137212500|91822500|8475e42e-6dfc-49a6-a297-cc7e146c0095|b954c6ee-ec91-4bd4-96aa-3e96851027e7",
           ""
-        ],
-        [
-          "unconnected_items|128320000|56925000|F.Cu|4|e94052b2-9c19-46a9-b712-06fcd789525f|e1eb8aee-fce8-40ad-be42-ae339606ce00",
-          ""
-        ],
-        [
-          "unconnected_items|128320000|61105000|F.Cu|4|6552fc22-cbb0-4771-a758-4711887d136b|e94052b2-9c19-46a9-b712-06fcd789525f",
-          ""
         ]
       ],
       "meta": {
@@ -568,7 +560,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "meme-o-clock-pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
