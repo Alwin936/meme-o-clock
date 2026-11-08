@@ -1,3 +1,14 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Arduino Nano ESP 32,1,Amazon,$19.30,$19.30,https://www.amazon.com/Arduino-ABX00083-Bluetooth-MicroPython-Compatible/dp/B0C947BHK5/ref=sr_1_1_sspa?crid=2I0KX0K4V333U&dib=eyJ2IjoiMSJ9.GzP-GvhsR81ftjmV7C-hRYZKKdZl_4SwzDvNEsHgVcLO0hkxBx_7VlrxfkkjsxSwStEeoHt74xXqMnl0Hy4GS9vuRd4swR_k9o3fOo_506hrggopg6pbaHK1Ol0Nms-NBUQjpqwdss5ABa27LXDnS7l-FrJNGIEK5j-LVuKBsy2dWDB1B8X-j-BPe74P57W1pVpunaCid6RU84pDYLTi6PwDVCq8Wj7hgFU2zkc_mzY.7xpyh3RSkX2Xb2HDk6usrSLZwMDYSgr_3HRHDEjX9x0&dib_tag=se&keywords=arduino%2Bnano%2Besp32&qid=1792342412&sprefix=arduino%2Bnanao%2Be%2Caps%2C271&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
-Estimated total shipping,1,,,$1.89,
+100 nf Capacitor,5,TME,$0.05,$0.25,https://www.tme.com/us/en-us/details/c0603c104k4rac7081/mlcc-smd-capacitors/kemet/?utm_source=chatgpt.com
+1 µF Capacitor,1,Mylsco,$0.06,$0.06,https://spartce.com/products/c1608x5r1a106m080ac-1?utm_source=chatgpt.com
+USB-C Receptacle,1,Digikey,$0.80,$0.80,https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441?utm_source=chatgpt.com
+JST EH 4-Pin,1,GAM-GEC,$0.12,$0.12,https://gam-gec.com/product/s4b-eh/?utm_source=chatgpt.com
+JST EH 2-Pin,1,GAM-GEC,$0.14,$0.14,https://gam-gec.com/product/s2b-eh/?utm_source=chatgpt.com
+JSH EH 3-Pin,1,GAM-GEC,$0.17,$0.17,https://gam-gec.com/product/s3b-eh/?utm_source=chatgpt.com
+"10 kΩ resistor, 0603",4,Digikey,$0.10,$0.40,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FG10K0/1761236?utm_source=chatgpt.com
+"5.1 kΩ resistor, 0603",2,Digikey,$0.10,$0.20,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603DTE5K10/6264054?utm_source=chatgpt.com
+"634 Ω resistor, 0603",1,Digikey,$0.10,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW0603634KFKEA/1180130?utm_source=chatgpt.com
+"6 mm tactile pushbutton, THT",6,Newark Listing,$0.37,$2.22,https://www.newark.com/?utm_source=chatgpt.com
+MAX98357A amplifier IC,1,Digikey,$4.08,$4.08,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX98357AETE-T/4936122?utm_source=chatgpt.com
+Estimated total shipping,1,,,$2.30,
